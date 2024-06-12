@@ -103,6 +103,9 @@ section a {
   text-decoration: none;
   font-weight: 900;
 }
+section li{
+  margin-top:1.5rem;
+}
 
 /*indice:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::*/
 
